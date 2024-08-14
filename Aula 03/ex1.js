@@ -14,5 +14,6 @@ console.log(aMaiusculo);
 console.log(tique);
 console.log(hiragama);
 console.log(tel_estudante);
+console.log(stexto.length); // nome da string . length retorna o tamanho da string
 
 //console.log(texto)
